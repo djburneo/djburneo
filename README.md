@@ -27,8 +27,9 @@ I'm a software engineer passionate about solving complex problems, learning new 
 
 ## Contact
 
-Feel free to contact me at anytime, I enjoy talking about any topic in life. The best way to do so is usually by [email](mailto:thevelika@hotmail.com) (thevelika@hotmail.com).
+Feel free to contact me at anytime, I enjoy talking about any topic in life. The best way to do so is usually by email.
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=2E86C1&vCenter=true&width=435&lines=Have+a+great+day!;Have+a+great+Monday!;Have+a+great+Tuesday!;Have+a+great+Wednesday!;Have+a+great+Thursday!;Have+a+great+Friday!;Have+a+great+weekend!" alt="Dynamic Greeting" />
-</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/username/username/main/assets/kirby-run.gif" width="60" alt="Kirby running" />
+</div>
+
