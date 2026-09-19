@@ -14,7 +14,6 @@ I'm a software engineer passionate about solving complex problems, learning new 
 
 ### Projects / Start Here
 
----
 
 - 
 - 
@@ -22,17 +21,12 @@ I'm a software engineer passionate about solving complex problems, learning new 
 
 ### Tech Stack
 
----
-
 - **Languages:** Python, TypeScript, JavaScript, Java, Rust
 - **Backend & APIs:** Node.js, FastAPI
 - **Frontend:** React, HTML5, CSS3 / Tailwind CSS
 - **DevOps & Tools:** Docker, Git, GitHub Actions
 
 ### Contact
-
----
-
 
 Feel free to contact me at anytime, I enjoy talking about any topic in life. The best way to do so is usually by [email](mailto:thevelika@hotmail.com) (thevelika@hotmail.com).
 
