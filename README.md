@@ -29,7 +29,7 @@ I'm a software engineer passionate about solving complex problems, learning new 
 
 Feel free to contact me at anytime, I enjoy talking about any topic in life. The best way to do so is usually by email.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/kirby-run.gif" width="60" alt="Kirby running" />
-</div>
+<p align="center">
+  <img src="./assets/gifs/1.gif" width="60" alt="Kirby" />
+</p>
 
