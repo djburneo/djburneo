@@ -2,12 +2,7 @@
 
 I'm a software engineer passionate about solving complex problems, learning new technologies, building scalable software and contributing to open-source projects. I also do Gym 💪, Music 🎼 and Gardening 🧑‍🌾.
 
-🌐 [Portfolio](https://tu-portfolio.com) · 💼 [LinkedIn](https://linkedin.com/in/tu-usuario) · ✉️ [thevelika@hotmail.com](mailto:thevelika@hotmail.com)
-
-
-### 💻 Technologies & Tools
-
----
+🌐 [Portfolio](https://tu-portfolio.com) · 💼 [LinkedIn](https://linkedin.com/in/tu-usuario) · ✉️ [Email](mailto:thevelika@hotmail.com)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -17,7 +12,7 @@ I'm a software engineer passionate about solving complex problems, learning new 
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-### 🚀 Projects / Start Here
+### Projects / Start Here
 
 ---
 
@@ -25,7 +20,7 @@ I'm a software engineer passionate about solving complex problems, learning new 
 - 
 - 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 ---
 
