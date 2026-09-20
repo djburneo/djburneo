@@ -30,6 +30,6 @@ I'm a software engineer passionate about solving complex problems, learning new 
 Feel free to contact me at anytime, I enjoy talking about any topic in life. The best way to do so is usually by email.
 
 <p align="center">
-  <img src="./assets/gifs/1.gif" width="60" alt="Kirby" />
+  <img src="./assets/running.svg" width="100%" alt="Kirby corriendo" />
 </p>
 
