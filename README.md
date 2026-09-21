@@ -27,7 +27,7 @@ I'm a software engineer passionate about solving complex problems, learning new 
 
 ## Contact
 
-Feel free to contact me at anytime, I enjoy talking about any topic in life. The best way to do so is usually by email.
+Feel free to contact me at anytime if you got a project in mind. The best way to do so is usually by email.
 
 <p align="center">
   <img src="./assets/landscape.gif" width="100%" height="160" style="object-fit: cover;" alt="Banner" />
