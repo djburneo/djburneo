@@ -11,9 +11,11 @@ I'm a software engineer passionate about solving complex problems, learning new 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
 </p>
+
 <!--
 ## Projects / Start Here
 -->
+
 ## Tech Stack
 
 - **Languages:** Python, TypeScript, JavaScript, Java, Rust
